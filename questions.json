@@ -1,0 +1,301 @@
+[	{
+	"question": "Salah satu metode penyusunan program terstruktur adalah pemrograman?",
+	"options": ["A. Modular", 
+		"B. Stage-bar", 
+		"C. Tabular", 
+		"D. Kolumar"],
+	"answer": "A. Modular"
+},
+
+{
+	"question": "Berikut jenis-jenis metode sorting dalam bahasa C/C++, kecuali",
+	"options": ["A. tipe data terlerak pada deklarasi fungsi", 
+		"B. tidak memiliki keyword return", 
+		"C. tidak dapat ditampilkan langsung", 
+		"D. dikenali oleh fungsi yang bersangkutan"],
+	"answer": "D. dikenali oleh fungsi yang bersangkutan"
+},
+
+{
+	"question": "Berikut ciri khas dari fungsi void, kecuali",
+	"options": ["A. counting sort", 
+		"B. combination sort", 
+		"C. bubble sort", 
+		"D. insertion sort"],
+	"answer": "B. combination sort"
+},
+
+{
+	"question": "Setiap proses akan diberi cara elemen-elemen yang belum diurutkan dari yang terkecil disebut",
+	"options": ["A. ascending", 
+		"B. descending", 
+		"C. swconding", 
+		"D. depending"],
+	"answer": "A. ascending"
+},
+
+{
+	"question": "Tokoh yang menyatakan pedapat bahwa AI atau kecerdasan buatan sebagai sebuah lingkungan di sekitarnya, sekaligus memberikan respons yang sesuai dengan tujuan tindakannya tersebut adalah",
+	"options": ["A. Encyclopedia Britannica", 
+		"B. Rich and Knight", 
+		"C. Stuard J. Russel dan Peter Norving", 
+		"D. Stuard J. Russel Minsky"],
+	"answer": "C. Stuard J. Russel dan Peter Norving"
+},
+		
+{
+	"question": "Kapan Indonesia merayakan Hari Kemerdekaan?",
+	"options": ["A. 11 Agustus 1945", 
+		"B. 2 Oktober 1890", 
+		"C. 26 Januari 1790", 
+		"D. 4 Maret 1950"],
+	"answer": "A. 11 Agustus 1945"
+},
+{
+	"question": "Pendapat ataupun reaksi seseorang setelah melihat,mendengar ataupun merasakan sesuatu",
+	"options": ["A. Tanggapan", 
+		"B. Saran", 
+		"C. Alasan", 
+		"D. Kritik"],
+	"answer": "D. Tanggapan"
+},
+{
+	"question": "Fadhil malas belajar. Ia pun tidak bisa mengerjakan soal",
+	"options": ["A.Sebaiknya Fadhil tetap malas belajar, agar ia bisa mengerjakan soal.", 
+		"B. Sebaiknya Fadhil tidak malas belajar, agar ia bisa mengerjakan soal", 
+		"C. Sebaiknya Fadhil kadang-kadang malas belajar, agar ia bisa mengerjakan soal", 
+		"D. Sebaiknya Fadhil sering malas belajar, agar ia bisa mengerjakan soal"],
+	"answer": "B. Sebaiknya Fadhil tidak malas belajar, agar ia bisa mengerjakan soal"
+},
+{
+	"question": "Harta kekayaan, baik yang berupa uang maupun benda lain yang dapat dinilai dengan uang maupun yang tidak berwujud nyata, seperti hak paten disebut",
+	"options": ["A. Aktiva", 
+		"B. Arus Kas", 
+		"C. Kas Kecil", 
+		"D. Neraca"],
+	"answer": "A. Aktiva"
+},
+{
+	"question": "Catatan posisi keuangan perusahaan pada akhir periode disebut",
+	"options": ["A. Aktiva", 
+		"B. Arus Kas", 
+		"C. Neraca", 
+		"D. Jurnal"],
+	"answer": "C. Neraca"
+},
+{
+	"question": "Tanggapan yang diberikan oleh komunikan terhadap pesan yang ia terima dan bersifat temporal disebut",
+	"options": ["A. Source", 
+		"B. Komunikator", 
+		"C. Feedback", 
+		"D. Effect"],
+	"answer": "C. Feedback"
+},
+{
+	"question": "Surat yang dikeluarkan oleh pemerintah yang menyatakan secara resmi kegiatan usaha layak dan diperbolehkan dalam waktu tertentu disebut",
+	"options": ["A. Surat ijin usaha", 
+		"B. NPWP (Nomor Pokok Wajib Pajak)", 
+		"C. NRB (Nomor Registe Bank)", 
+		"D. SIPU (Surat Ijin Tempat Usaha)"],
+	"answer": "B. SIPU (Surat Ijin Tempat Usaha)"
+},
+{
+	"question": "Di bawah ini bukan dokumen untuk mendapatkan nomor rekening bank, yaitu",
+	"options": ["A. Kartu contoh tanda tangan pimpinan perusahaan dan bendahara", 
+		"B.Lembar pemberitahuan setoran ", 
+		"C. Fotocopy NRP", 
+		"D. Tanda setoran"],
+	"answer": "B.Lembar pemberitahuan setoran "
+},
+{
+	"question": "Modal adalah kekuasaan untuk menggunakan barang-barang modal yang tercatat di neraca sebelah kredit merupakan pengerrtian modal menurut",
+	"options": ["A. Prof. Polak", 
+		"B. Prof. Bakker", 
+		"C. Suad Husnan dan Suwarsono", 
+		"D. Ahmad subagyo"],
+	"answer": "A. Prof. Polak"
+},
+{
+	"question": "Sejumlah barang atau uang yang masih berada di tangan orang lain disebut",
+	"options": ["A. Utang", 
+		"B. Harta", 
+		"C. Kas", 
+		"D. Piutang"],
+	"answer": "D. Piutang"
+},
+{
+	"question": "Berikut ini kegunaan surat izin usaha bagi pengelola usaha, kecuali",
+	"options": ["A. Untuk menjamin kepastian hukum dalam berusaha", 
+		"B. Untuk menciptakan ketenangan dalam berusaha", 
+		"C. Untuk persiapakan administrasi usaha", 
+		"D. None of the above"],
+	"answer": "B. Untuk persiapakan administrasi usaha"
+},
+{
+	"question": "SIUP diperlukan berdasarkan tempat kedudukan perusahaan dan berlaku untuk kegiatan",
+	"options": ["A. Modal", 
+		"B. Perdagangan", 
+		"C. Tenaga", 
+		"D. Pembelian"],
+	"answer": "B. Perdagangan"
+},
+{
+	"question": "Salah satu fungsi NPWP adalah?",
+	"options": ["A. Untuk mengetahui identitas wajib pajak", 
+		"B. Untuk kegiatan usaha", 
+		"C. Untuk perancangan pajak usaha", 
+		"D. Untuk melihat keterlambatan pembayaran pajak"],
+	"answer": "A. Untuk mengetahui identitas wajib pajak "
+},
+{
+	"question": "Berikut yang bukan termasuk dalam masalah modal adalah",
+	"options": ["A. Keseimbangan modal internal", 
+		"B. Keseimbangan modal usaha", 
+		"C. Keseimbangan modal eksternal", 
+		"D. Keseimbangan modal kualitas"],
+	"answer": "B. Keseimbangan modal usaha"
+},
+{
+	"question": "Modal usaha atau modal kerja yang akan digunakan wirausaha dalammengelola perusahaan dapat dibedakan dalam bentuk",
+	"options": ["A. Harta tetap dan harta tertunda ",
+		"B. Harta tertunda dan harta bersama",
+		"C. Harta lancar dan harta tetap ",
+		"D. Harta warisan dan harta bersama"],
+	"answer": "C. Harta lancar dan harta tetap "
+},
+{
+	"question": "Syarat untuk mendapatkan NPWP adalah",
+	"options": ["A. Fotokopi AMDAL",
+		"B. Fotokopi KTP",
+		"C. Fotokopi NRP",
+		"D. Fotokopi SITU"],
+	"answer": "B. Fotokopi KTP"
+},
+{
+	"question": "Manfaat utama adanya perizinan usaha bagi pemerintah daerah adalah",
+	"options": ["A.Untuk meningkatkan penghasilan dari sektor pajak",
+		"B. Untuk mendorong perkembangan usaha",
+		"C. Untuk mencegah persaingan tidak sehat",
+		"D. Untuk memberi bantuan modal"],
+	"answer": "B. Untuk mendorong perkembangan usaha"
+},
+{
+	"question": "Suatu persetujuan yang dikeluarkan pemerintah daerah setempat untuk perusahaan industri disebut izin",
+	"options": ["A. Bangunan",
+		"B. Gangguan",
+		"C. Prinsip",
+		"D. Mendirikan Bangunan"],
+	"answer": "C. Prinsip"
+},
+{
+	"question": "Dalam aspek hukum terdapat ketentuan-ketentuan hukum tersebut meliputi hal tersebut. Kecuali",
+	"options": ["A. NPWP",
+		"B. Izin operasional",
+		"C. Izin Lokasi",
+		"D. NPWP"],
+	"answer": "B. Izin operasional"
+},
+{
+	"question": "Dua aspek penting dalam bisnis adalah",
+	"options": ["A. Modal dan moral",
+		"B. Moral dan etika",
+		"C. Modal dan rekan kerja",
+		"D. Etika dan rekan kerja"],
+	"answer": "B. Moral dan etika"
+},
+{
+	"question": "Ada 6 tahapan dalam studi kelayakan bisnis. Kecuali",
+	"options": ["A. Tahap pemodalan",
+		"B. Tahap evaluasi",
+		"C. Tahap pemodalan",
+		"D. Tahap rencana pelaksanaan"],
+	"answer": "C. Tahap pemodalan"
+},
+{
+	"question": "NPWP kepanjangan dari",
+	"options": ["A. Nomor pokok wajib pajak",
+		"B. Nomor pokok wajib perusahaan",
+		"C. Nomor pajak wajib pokok",
+		"D. Nomor panjak wajib perusahaan"],
+	"answer": "A. Nomor pokok wajib pajak"
+},
+{
+	"question": "Dalam peggunaan kredit modal kerja untuk usaha oleh pihak banyak ada pedoman 3R yaitu",
+	"options": ["A. Repayment copacity, Redudansi Responsibility",
+		"B. Responsive, Repayment copacity, Repayment",
+		"C. Returns, Repayment copacity, risk bearing ability",
+		"D. Repayment, returns, responsive"],
+	"answer": "C. Returns, Repayment copacity, risk bearing ability"
+},
+{
+	"question": "Fungsi yang digunakan untuk mencari informasi yang diinginkan dengan cara mencocokkan informasi yang diinginkan dengan informasi yang tersedia adalah",
+	"options": ["A. Pivot",
+		"B. Filtering",
+		"C. Sorting",
+		"D. Search"],
+	"answer": "D. Search"
+},
+{
+	"question": "Berikut yang bukan termasuk ciri khas program terstruktur adalah",
+	"options": ["A. Mudah dipahami",
+		"B. Sulit dikoreksi",
+		"C. Mudah dikoreksi",
+		"D. Memiliki rancangan sistematis"],
+	"answer": "B. Sulit dikoreksi"
+},
+{
+	"question": "Insertion Sort merupakan metode pengurutan data dengan cara melakukan",
+	"options": ["A. Perbandingan",
+		"B. Penelusuran",
+		"C. Pengurutan",
+		"D. Penjumlahan"],
+	"answer": "A. Perbandingan"
+},
+{
+	"question": "Berikut ciri khas dari fungsi nonvoid, kecuali",
+	"options": ["A. memiliki keyword return",
+		"B. untuk menyimpan instruksi",
+		"C. memiliki nilai kembalian",
+		"D. tipe data pada deklarasi fungsi"],
+	"answer": "B. untuk menyimpan instruksi"
+},
+{
+	"question": "Program AI pertama yang bekerja ditulis pada 1951 untuk University of Manchester dengan tujuan menjalankan mesin bernama" ,
+	"options": ["A. Turning test",
+		"B. Ferranti Mark I",
+		"C. Rogerian",
+		"D. ELIZA"],
+	"answer": "B. Ferranti Mark I"
+},
+{
+	"question": "Ilmu dasar yang dapat dijadikan jembatan untuk membuat komunikasi antara mesin dengan manusia",
+	"options": ["A. Robotic",
+		"B. NLP",
+		"C. ES",
+		"D. ESP"],
+	"answer": "C. ES"
+},
+{
+	"question": "Sebuah sistem informasi yang memiliki intelegensia buatan (Artificial Intelegent) yang menyerupai intelegensia manusia disebut",
+	"options": ["A. Expert System",
+		"B. Extra Sensory Project",
+		"C. Decision Support System",
+		"D. Support NETtalk"],
+	"answer": "A. Expert System"
+},
+{
+	"question": "Bahasa pemrograman pertama yang diasosiasikan dengan AI adalah",
+	"options": ["A. C++",
+		"B. LISP",
+		"C. OOP",
+		"D. PROLOG"],
+	"answer": "B. LISP"
+},
+{
+	"question": "Berikut konsep dasar intelligensi buatan, kecuali",
+	"options": ["A. deep learning",
+		"B. descrates program",
+		"C. machine learning",
+		"D. neural networks"],
+	"answer": "B. descrates program"
+}]
